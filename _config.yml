@@ -2,6 +2,7 @@ url: https://movarsun.github.io
 baseurl: /
 
 # Site settings
+# https://github.com/y7kim/agency-jekyll-theme
 title: Asset  Right Co
 email: assetright@assetright.co
 description: "AssetRight Co. Expertise. Trust. Growth"
@@ -11,13 +12,13 @@ people:
 - name: Pappu Sundaramoorthy
   pic: 1
   position: Founder 
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+  # social:
+  #   - title: twitter
+  #     url: #
+  #   - title: facebook
+  #     url: #
+  #   - title: stack-overflow
+  #     url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
